@@ -10,7 +10,7 @@ from email.utils import parsedate_to_datetime
 from pathlib import Path
 
 FEED = "https://gatezh.com/index.xml"
-COUNT = 5
+COUNT = 3
 START, END = "<!-- posts:start -->", "<!-- posts:end -->"
 
 readme = Path(sys.argv[1] if len(sys.argv) > 1 else "README.md")

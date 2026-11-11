@@ -3,7 +3,7 @@
   <img src="./banner-light.svg" width="100%" alt="$ whoami: Serge Gatezh, product engineer. Simple, secure software, end to end.">
 </picture>
 
-I'm Serge, a product engineer. I build simple, secure software end to end, and write about what I learn along the way.
+I'm Serge, a product engineer. I build simple, secure software end to end, and write about what I learn along the way. I specialize in optimizing user workflows to reduce cognitive load.
 
 **Right now** I'm writing part 2 of [Protecting SSH Keys with macOS Secure Enclave](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/), which made the [Hacker News front page](https://news.ycombinator.com/item?id=50449748). It's about [Secretive](https://github.com/maxgoedjen/secretive), the app I ended up using.
 
@@ -13,8 +13,6 @@ I'm Serge, a product engineer. I build simple, secure software end to end, and w
 - [Docker Desktop Disk Full on macOS: The 1 TB Default and the Dev Containers Cache](https://gatezh.com/posts/docker-desktop-disk-full-macos/) · Sep 2026
 - [Protecting SSH Keys with macOS Secure Enclave (Native Approach)](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/) · Feb 2026
 - [Publishing Multi-Platform Docker Images to GitHub Container Registry](https://gatezh.com/posts/publishing-multi-platform-docker-images-to-github-container-registry/) · Dec 2025
-- [Add Remark42 comments to Hugo website](https://gatezh.com/posts/add-remark42-comments-to-hugo-website/) · Jun 2024
-- [How to Redirect www to Root Domain on Cloudflare Pages](https://gatezh.com/posts/how-to-redirect-www-to-root-domain-on-cloudflare-pages/) · Jun 2024
 <!-- posts:end -->
 
 #### Also
