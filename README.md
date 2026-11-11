@@ -3,9 +3,11 @@
   <img src="./assets/banner-light.svg" width="100%" alt="$ whoami: Serge Gatezh, product engineer. Simple, secure software, end to end.">
 </picture>
 
-I'm Serge, a product engineer. I build simple, secure software end to end, and write about what I learn along the way. I specialize in optimizing user workflows to reduce cognitive load.
+I'm Serge, a product engineer. I build simple, secure software end to end, and write about what I learn along the way.
 
-**Right now** I'm writing part 2 of [Protecting SSH Keys with macOS Secure Enclave](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/), which made the [Hacker News front page](https://news.ycombinator.com/item?id=50449748). It's about [Secretive](https://github.com/maxgoedjen/secretive), the app I ended up using.
+**I specialize in optimizing user workflows to reduce cognitive load.**
+
+Right now I'm writing part 2 of [Protecting SSH Keys with macOS Secure Enclave](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/), which made the [Hacker News front page](https://news.ycombinator.com/item?id=50449748). It's about [Secretive](https://github.com/maxgoedjen/secretive), the app I ended up using.
 
 #### Latest from gatezh.com
 
