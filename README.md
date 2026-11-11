@@ -6,4 +6,4 @@
 
 **Talks:** [gatezh.com/talks](https://gatezh.com/talks/)
 
-[gatezh.com](https://gatezh.com) · [LinkedIn](https://linkedin.com/in/gatezh)
+[gatezh.com](https://gatezh.com) · [LinkedIn](https://linkedin.com/in/gatezh) · [Hacker News](https://news.ycombinator.com/user?id=gatezh)
