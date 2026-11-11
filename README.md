@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg">
-  <img src="./banner-light.svg" width="100%" alt="$ whoami: Serge Gatezh, product engineer. Simple, secure software, end to end.">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+  <img src="./assets/banner-light.svg" width="100%" alt="$ whoami: Serge Gatezh, product engineer. Simple, secure software, end to end.">
 </picture>
 
 I'm Serge, a product engineer. I build simple, secure software end to end, and write about what I learn along the way. I specialize in optimizing user workflows to reduce cognitive load.
