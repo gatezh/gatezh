@@ -10,7 +10,9 @@ from email.utils import parsedate_to_datetime
 from pathlib import Path
 
 FEED = "https://gatezh.com/index.xml"
-COUNT = 3
+COUNT = 4
+# Outdated posts that stay on the site but are not advertised here.
+SKIP = {"/posts/how-to-redirect-www-to-root-domain-on-cloudflare-pages/"}
 START, END = "<!-- posts:start -->", "<!-- posts:end -->"
 
 readme = Path(sys.argv[1] if len(sys.argv) > 1 else "README.md")
@@ -21,7 +23,7 @@ with urllib.request.urlopen(request, timeout=30) as response:
 lines = []
 for item in channel.findall("item"):
     link = item.findtext("link", "")
-    if "/posts/" not in link:
+    if "/posts/" not in link or any(link.endswith(path) for path in SKIP):
         continue
     date = parsedate_to_datetime(item.findtext("pubDate")).strftime("%b %Y")
     lines.append(f"- [{item.findtext('title')}]({link}) · {date}")

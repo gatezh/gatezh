@@ -13,6 +13,7 @@ I'm Serge, a product engineer. I build simple, secure software end to end, and w
 - [Docker Desktop Disk Full on macOS: The 1 TB Default and the Dev Containers Cache](https://gatezh.com/posts/docker-desktop-disk-full-macos/) · Sep 2026
 - [Protecting SSH Keys with macOS Secure Enclave (Native Approach)](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/) · Feb 2026
 - [Publishing Multi-Platform Docker Images to GitHub Container Registry](https://gatezh.com/posts/publishing-multi-platform-docker-images-to-github-container-registry/) · Dec 2025
+- [Add Remark42 comments to Hugo website](https://gatezh.com/posts/add-remark42-comments-to-hugo-website/) · Jun 2024
 <!-- posts:end -->
 
 #### Also
