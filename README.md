@@ -21,6 +21,6 @@ Right now I'm writing part 2 of [Protecting SSH Keys with macOS Secure Enclave](
 #### Also
 
 - [devcontainers](https://github.com/gatezh/devcontainers): dev container images for AI coding assistants, with a firewall sandbox so the agent can't reach what it shouldn't.
-- [Talks](https://gatezh.com/talks/): I run the Frontend & Beyond meetup in Calgary and speak about shipping on Cloudflare's free tier and keeping AI agents away from secrets.
+- [Talks](https://gatezh.com/talks/): I've spoken at Frontend & Beyond, Calgary's web developer meetup, about shipping on Cloudflare's free tier and keeping AI agents away from secrets.
 
 [gatezh.com](https://gatezh.com) · [LinkedIn](https://linkedin.com/in/gatezh) · [Hacker News](https://news.ycombinator.com/user?id=gatezh) · [RSS](https://gatezh.com/index.xml)
